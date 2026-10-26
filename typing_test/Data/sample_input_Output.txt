@@ -1,0 +1,20 @@
+Sample Input & Output
+pattern.txt
+A Lickpenny Lover There were 3,000 girls in the Biggest Store
+
+1.txt (user typed)
+A Lickpenny Lober There were 3000 girls in the
+
+Console Input (for 1 user)
+Enter number of users: 1
+Enter user ID: 1
+Enter typing time in seconds: 150
+Enter typed text filename for user 1: 1.txt
+
+Example Output
+User 1 accuracy: 85.71%
+Typing speeds (words/sec) sorted:
+User 1: 0.057
+User with most mistakes: 1
+Wrong words:
+Lober 3000

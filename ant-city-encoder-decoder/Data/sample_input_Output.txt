@@ -1,0 +1,25 @@
+Sample Input & Output
+parents.txt
+1 2
+bcde
+bbb
+abcd
+
+Encoder Input (stdin)
+b
+bc
+x
+b
+bcd
+x
+b
+bcde
+b
+
+Decoder Output (stdout)
+b
+bc
+b
+bcd
+b
+b

@@ -1,0 +1,34 @@
+
+Sample input
+
+S:8:90
+P:6:120
+K:2:180
+M:5:300
+
+
+Sample Output
+
+====== Night Ahangi Program Report ======
+
+Traditional (S):
+  Play Time: 240 sec
+  Satisfaction: 12
+  Percentage: 6.67%
+
+Pop (P):
+  Play Time: 320 sec
+  Satisfaction: 13
+  Percentage: 8.89%
+
+Classic (K):
+  Play Time: 420 sec
+  Satisfaction: 8
+  Percentage: 11.67%
+
+Local (M):
+  Play Time: 510 sec
+  Satisfaction: 14
+  Percentage: 14.17%
+
+Total Used Time: 1490 sec

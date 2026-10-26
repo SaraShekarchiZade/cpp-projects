@@ -1,0 +1,26 @@
+Sample Input / Output
+Registration
+Enter username: Sara
+Enter password: 1234
+Output: User registered successfully.
+
+Settings
+Enter number length (4-9): 5
+Allow repeated digits? (1-yes, 0-no): 0
+Show guess history? (1-yes, 0-no): 1
+Output: Settings saved.
+
+Playing Game
+Attempt 1: Enter your guess: 12345
+Correct position: 1, Correct digit (wrong place): 2
+
+Attempt 2: Enter your guess: 54321
+Correct position: 0, Correct digit (wrong place): 3
+
+Congratulations! You guessed the number.
+Your score: 75
+Guess history: 12345 54321
+
+Scoreboard
+---- Scoreboard ----
+Sara : 75

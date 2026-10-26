@@ -1,0 +1,32 @@
+Sample output
+Couples without blood relation:
+ID: 1 Name: Ali Ahmadi Gender: Male
+ID: 2 Name: Sara Ahmadi Gender: Female
+------
+Relatives of type child for Ali:
+ID: 3 Name: Reza Ahmadi Gender: Male
+Person with most descendants:
+ID: 1 Name: Ali Ahmadi Gender: Male
+Total descendants: 1
+Closest relation (simplified output):
+Ali and Reza might be distant relatives (advanced computation needed)
+
+
+Sample input
+
+Enter number of people: 3
+
+Enter person 1 details (id firstName lastName gender birthDate deathDate spouseId):
+1 Ali Ahmadi Male 1970-01-01 "" 2
+
+Enter person 2 details:
+2 Sara Ahmadi Female 1972-05-10 "" 1
+
+Enter person 3 details:
+3 Reza Ahmadi Male 1995-03-03 "" -1
+
+Enter number of parent-child relations: 2
+Enter parentId childId:
+1 3
+Enter parentId childId:
+2 3
